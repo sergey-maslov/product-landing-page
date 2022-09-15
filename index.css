@@ -1,7 +1,3 @@
-:root {
-    background-color: #010101;
-    color: white;
-    background-image: url(img/background.png);
-    padding-left: 200px;
-    padding-right: 200px;
-}
+@import url(common.css);
+
+@import url(factions.css);

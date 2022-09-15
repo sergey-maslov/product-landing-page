@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "LifeCraft";
+    src: url(fonts/lifecraft.ttf);
+}
+
+:root {
+    background-color: #010101;
+    color: white;
+    background-image: url(img/background.png);
+    --font-lifecraft: "LifeCraft", sans-serif;
+    }
+
+    body {
+        display: block;
+        width: 960px;
+        margin: auto;
+    }
