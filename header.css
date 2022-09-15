@@ -14,12 +14,13 @@
 #nav-bar {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .nav-link {
     text-decoration: none;
-    color: white;;
+    color: white;
+    text-transform: uppercase;
 }
 
 #header__title {
