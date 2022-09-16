@@ -1,0 +1,20 @@
+#levels {
+    display: flex;
+    flex-direction: column;
+}
+
+.levels__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    background-color: beige;
+    color: black;
+    border-radius: 20px;
+    max-width: 350px;
+}
+
+.levels__card img {
+    width: 100px;
+}
